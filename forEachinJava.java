@@ -15,8 +15,7 @@ public class forEachinJava {
         animals.add("rat");
 
 
-        for (String i: animals
-             ) {
+        for (String i : animals) {
             System.out.println(i);
         }
     }
