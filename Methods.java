@@ -5,7 +5,7 @@ public class Methods {
         int y = 5;
 
         //add(x,y);
-        z = add(x, y);
+        int z = add(x, y);
         System.out.println(z);
         hello("name");
     }

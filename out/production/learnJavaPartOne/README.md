@@ -1,6 +1,6 @@
 # Java Learning Repository
 
-![Java Logo](https://www.oracle.com/a/ocom/img/cb71-java-logo-001.jpg)
+![Java Logo](https://brandslogos.com/wp-content/uploads/images/java-logo-1.png)
 
 Welcome to my Java Learning Repository! This repository is dedicated to my journey of learning Java programming. Here, you'll find a collection of code, projects, and resources that I've been using to improve my Java skills.
 
