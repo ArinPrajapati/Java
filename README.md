@@ -1,6 +1,7 @@
 # Java Learning Repository
 
-![Java Logo](https://www.oracle.com/a/ocom/img/cb71-java-logo-001.jpg)
+![Java Logo](![image](https://github.com/ArinPrajapati/Java/assets/128956720/7fa97edf-d4c8-4081-938f-81f7ab32e151)
+)
 
 Welcome to my Java Learning Repository! This repository is dedicated to my journey of learning Java programming. Here, you'll find a collection of code, projects, and resources that I've been using to improve my Java skills.
 
