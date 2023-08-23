@@ -1,0 +1,2 @@
+public class methodOverridingInJava {
+}
