@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Opp/Opp.iml" filepath="$PROJECT_DIR$/Opp/Opp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diceRoller/diceRoller.iml" filepath="$PROJECT_DIR$/diceRoller/diceRoller.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learnJavaPartOne.iml" filepath="$PROJECT_DIR$/.idea/learnJavaPartOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pizza/pizza.iml" filepath="$PROJECT_DIR$/pizza/pizza.iml" />
     </modules>
   </component>
 </project>
