@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Opp/Opp.iml" filepath="$PROJECT_DIR$/Opp/Opp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessModifiers/accessModifiers.iml" filepath="$PROJECT_DIR$/accessModifiers/accessModifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cal/cal.iml" filepath="$PROJECT_DIR$/cal/cal.iml" />
       <module fileurl="file://$PROJECT_DIR$/diceRoller/diceRoller.iml" filepath="$PROJECT_DIR$/diceRoller/diceRoller.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learnJavaPartOne.iml" filepath="$PROJECT_DIR$/.idea/learnJavaPartOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/pizza/pizza.iml" filepath="$PROJECT_DIR$/pizza/pizza.iml" />

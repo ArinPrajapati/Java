@@ -6,8 +6,9 @@ public class staticKeywordiNjava {
         Friend friend1 = new Friend("SpongeBob");
         Friend friend2 = new Friend("Patrick");
         Friend friend3 = new Friend("Patrick");
+        Friend friend4 = new Friend("Patrick");
 
-        System.out.println(Friend.numberOfFriends);
+        System.out.println(Friend.numberOfFriends + Friend.Band);
     }
 }
 
@@ -17,6 +18,15 @@ class Friend {
     String name;
 
     static int numberOfFriends;
+
+
+        static String Band;
+
+        static {
+            Band = " Band";
+        }
+
+
 
     Friend(String name) {
         this.name = name;
